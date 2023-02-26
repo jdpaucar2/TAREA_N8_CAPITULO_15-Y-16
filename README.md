@@ -357,12 +357,14 @@ de 8 kHz
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
 
-
+https://youtu.be/g-_EbvIoRPQ
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **5. CONCLUSIONES**
+
+En conclucion los inductores y bobinas representan gran parte del desarrollo tecnologico de las ultimas decadas, estos permitieron el concepto general de la electronica moderna gracias a aquer pudieron acoplarse a los aprendisajes previos de esta manera se genera en gran parte los sistemas electronicos cotidianos que tenemos en la actualidad.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
