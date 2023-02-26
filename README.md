@@ -237,11 +237,122 @@ Ningún voltaje de salida debido a que todo el voltaje se queda en R1, además R
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 3.2 CAPITULO 14
+* 3.2 CAPITULO 16
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y
+VL?
 
+La frecuencia para I, VR y VL siempre va ser la misma 15 kHz debido a que el voltaje de entrada es sinusoidal.
+
+
+3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/116772918/221417821-4b78ad8d-daea-4af6-a21d-622287003ec3.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221417831-649ce1a5-dd45-4bed-a6f3-41e3b069bf7a.png)
+
+
+7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/116772918/221417851-8e299a66-42e9-4157-96f1-1cc194a5e85c.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221417871-867cc9c4-f8d3-4588-8c2d-41f434a6975f.png)
+
+10. Exprese la corriente en forma polar para cada circuito de la figura 16-54.
+
+![image](https://user-images.githubusercontent.com/116772918/221418052-70270ae3-21f2-44a4-858c-b86e600bc8da.png)
+
+13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+![image](https://user-images.githubusercontent.com/116772918/221418083-e0702df9-74e4-411b-85d0-e121b91969ea.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221418094-4a3ff74a-c8a7-4bb4-baaf-134a77e9c0c0.png)
+
+15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+
+![image](https://user-images.githubusercontent.com/116772918/221418163-e5799a5e-2f98-4971-827a-5e612c44cd83.png)
+
+
+(a) 60 Hz 
+
+![image](https://user-images.githubusercontent.com/116772918/221418180-58cb9101-ee2c-46ee-a276-c296ad68e32b.png)
+
+
+(b) 200 Hz 
+
+![image](https://user-images.githubusercontent.com/116772918/221418195-fe5af7dc-e0bc-4b4f-a268-a52cd5848018.png)
+
+
+(c) 500 Hz 
+
+![image](https://user-images.githubusercontent.com/116772918/221418207-5f1a2638-7e58-4a66-bd58-ee7c451526bb.png)
+
+
+(d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/116772918/221418222-6a8baa5e-0fb0-4e55-a63b-e434a00c629c.png)
+
+19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/116772918/221418288-bc880a65-7c36-4115-ae2c-f973a06fac41.png)
+
+21. ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/116772918/221418303-5ccc8d82-9488-47ed-8fca-66562ecbfd98.png)
+
+25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie. 
+
+![image](https://user-images.githubusercontent.com/116772918/221418358-361202df-61cc-41de-b5c1-bba200a84db7.png)
+
+27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace
+el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/116772918/221418461-1f59e473-1b26-401f-b862-627c64f769dc.png)
+
+28. ¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?
+
+![image](https://user-images.githubusercontent.com/116772918/221418507-c49a0591-07d2-4a05-aaa3-49ad0d39bf72.png)
+
+
+*31. Para el circuito de la figura 16-70, determine lo siguiente:
+
+a). Itot (b). VL1 (c). VAB
+
+![image](https://user-images.githubusercontent.com/116772918/221418582-29a559ec-97e3-4880-9ff9-490ec0f6c383.png)
+
+33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la
+salida en el circuito de la figura 16-71.
+
+![image](https://user-images.githubusercontent.com/116772918/221418602-e7441130-4a58-4eb3-bdc3-11d98b4b6cb5.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221418611-31d9747c-6bc1-4ecb-9ba6-840da5f8a4b7.png)
+
+37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.
+
+![image](https://user-images.githubusercontent.com/116772918/221418626-7d2c1d5c-097a-4ad4-8a36-1c2c651ce16c.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221418638-d503336d-18e6-409e-ba84-ce4f75024518.png)
+
+39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.
+
+![image](https://user-images.githubusercontent.com/116772918/221418655-e9b81cdf-ef00-4876-b24d-2672ae1e215d.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221418662-7640f1b2-d2f2-46cc-a8df-20a666d7822a.png)
+
+43. Trace el diagrama fasorial de voltaje para cada circuito de las figuras 16-61 y 16-62 a una frecuencia
+de 8 kHz
+
+![image](https://user-images.githubusercontent.com/116772918/221418686-6f5e9b59-47a5-4e17-8a48-9c1d3923606c.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221418696-5d8a2e09-8d2a-4c99-a066-31328eb93e75.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221418718-550a69c7-ac51-45af-924a-5db3d6ebf962.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221418735-f0533145-0325-473d-950a-b724d2df1bed.png)
+
+![image](https://user-images.githubusercontent.com/116772918/221418744-400e51a5-486e-4a90-bcbd-3f86beb3449e.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO**
